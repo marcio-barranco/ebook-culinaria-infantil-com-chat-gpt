@@ -1,4 +1,4 @@
-#Transcrições com o ChatGPT
+# Transcrições com o ChatGPT
 
 Crie um título de um ebook de receitas culinárias para crianças. O nicho é receitas culinárias, e o subnicho é educação infantil. O título deve ser divertido e atraente para crianças, que tenha uma temática relacionada a desenhos animados. Me lista 5 variações de títulos
 2/2
