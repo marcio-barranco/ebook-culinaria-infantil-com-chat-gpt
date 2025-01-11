@@ -13,7 +13,7 @@ O ChatGPT, por outro lado, ofereceu o DALL-E para geração de imagem gratuitame
 
 ## Conteúdo do projeto
 
-Há um diretório com o arquivo PDF final do e-Book.
-Também há um arquivo com os prompts utilizados e respostas dadas pelo ChatGPT.
+Há um arquivo PDF final do e-Book e também um arquivo com os prompts utilizados e respostas dadas pelo ChatGPT.
+Ambos os arquivos estão na raiz do projeto.
 
 
